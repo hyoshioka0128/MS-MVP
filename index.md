@@ -98,20 +98,20 @@ Microsoft MVP とは
 
 「（ぼく｜私）MVP なんだ！」って言うと「受賞カテゴリーは？」と聞かれます。
 
-カテゴリーについては <a href="https://mvp.microsoft.com/ja-jp/faq?section=mvp#mvp-technology-structure-0" target="_blank">公式サイトに詳細が詳しく載っています</a> が、こちらにも *簡略版を* 載せておきます。(2025年10月時点)
+カテゴリーについては <a href="https://mvp.microsoft.com/ja-jp/faq?section=mvp#mvp-technology-structure-0" target="_blank">公式サイトに詳細が詳しく載っています</a> が、こちらにも *簡略版を* 載せておきます。(2026年1月時点)
 
 とくにコントリビューションエリアについては、ここに載せきれないくらい大量にあるので、興味ある方は必ず<a href="https://mvp.microsoft.com/ja-jp/faq?section=mvp#mvp-technology-structure-0" target="_blank">公式サイト</a>をご覧ください。
 
 ＃|カテゴリー名|コントリビューションエリア
 ---|---|---
-1|AAzure AI Foundry | Azure AI Foundry
-2|Business Applications | AI ERP、Business Central、Copilot Studio、Customer Experience、Customer Service、Power Apps、Power Automate、Power Pages
-3|Cloud and Datacenter Management | Datacenter Management (Group Policy, System Center)、Enterprise and Platform Security、High Availability、Hyper-V、Linux on Hyper-V、On-premises and Hybrid AKS, Container Management、On-Premises Networking、On-Premises Storage、Windows Server
-4|Data Platform | Analysis Services、Azure Arc (Arc SQL Server, Arc SQL MI)、Azure Cosmos DB、Azure Data Lake、Azure Database for MySQL、Azure Database for PostgreSQL、Azure SQL (Database, Pools, Serverless, Hyperscale, Managed Instance, Virtual Machines)、Azure Synapse Analytics、Data Engineering & Data Science in Fabric、Data Integration、Database Development & DevOps、Microsoft Fabric、Microsoft Purview - Data Governance、Paginated Operational Reports (RDL)、Power BI、Real-Time Intelligence、SQL Server (on Windows, Linux, Containers)、SQL Server ML Services、Tools & Connectivity
-5|Developer Technologies | .NET、C++、Developer Security、Developer Tools、DevOps、Java、Python、Web Development
-6|Internet of Things | Azure Edge Devices、Azure IoT Services & Development
-7|M365 | Access、Clipchamp、Excel、Exchange、Loop、M365 Copilot、M365 Copilot Extensibility、M365 Development、Mesh、Microsoft 365、Microsoft Graph、Microsoft Teams、Microsoft Viva、OneDrive、OneNote、Outlook、Planner、PowerPoint、SharePoint、Visio、Word
-8|Microsoft Azure | Azure Application PaaS、Azure Compute Infrastructure、Azure Cost, Resource & Configuration Management、Azure HPC & AI Infrastructure、Azure Hybrid & Migration、Azure Infrastructure as Code、Azure Innovation Hub、Azure Integration PaaS、Azure Kubernetes and Open Source、Azure Networking、Azure Solutions & Ecosystem、Azure Storage、Azure Well-Architected, Resiliency & Observability、PowerShell
+1|Business Applications | AI ERP、Business Central、Copilot Studio、Customer Experience、Customer Service、Power Apps、Power Automate、Power Pages
+2|Cloud and Datacenter Management | Datacenter Management (Group Policy, System Center)、Enterprise and Platform Security、High Availability、Hyper-V、Linux on Hyper-V、On-premises and Hybrid AKS, Container Management、On-Premises Networking、On-Premises Storage、Windows Server
+3|Data Platform | Analysis Services、Azure Arc (Arc SQL Server, Arc SQL MI)、Azure Cosmos DB、Azure Data Lake、Azure Database for MySQL、Azure Database for PostgreSQL、Azure SQL (Database, Pools, Serverless, Hyperscale, Managed Instance, Virtual Machines)、Azure Synapse Analytics、Data Engineering & Data Science in Fabric、Data Integration、Database Development & DevOps、Microsoft Fabric、Microsoft Purview - Data Governance、Paginated Operational Reports (RDL)、Power BI、Real-Time Intelligence、SQL Server (on Windows, Linux, Containers)、SQL Server ML Services、Tools & Connectivity
+4|Developer Technologies | .NET、C++、Developer Security、Developer Tools、DevOps、Java、Python、Web Development
+5|Internet of Things | Azure Edge Devices、Azure IoT Services & Development
+6|M365 | Access、Clipchamp、Excel、Exchange、Loop、M365 Copilot、M365 Copilot Extensibility、M365 Development、Mesh、Microsoft 365、Microsoft Graph、Microsoft Teams、Microsoft Viva、OneDrive、OneNote、Outlook、Planner、PowerPoint、SharePoint、Visio、Word
+7|Microsoft Azure | Azure Application PaaS、Azure Compute Infrastructure、Azure Cost, Resource & Configuration Management、Azure HPC & AI Infrastructure、Azure Hybrid & Migration、Azure Infrastructure as Code、Azure Innovation Hub、Azure Integration PaaS、Azure Kubernetes and Open Source、Azure Networking、Azure Solutions & Ecosystem、Azure Storage、Azure Well-Architected, Resiliency & Observability、PowerShell
+8|Microsoft Foundry | Microsoft Foundry
 9|Security | Cloud Security (Microsoft Defender for Cloud, Azure network security products, GitHub Advanced Security)、Identity & Access、Microsoft Intune、Microsoft Purview、Microsoft Security Copilot、SIEM & XDR (Microsoft Sentinel & Microsoft Defender XDR suite)
 10|Windows Development | Windows Design、Windows Development
 11|Windows and Devices | Azure Virtual Desktop、Surface、Windows、Windows 365
