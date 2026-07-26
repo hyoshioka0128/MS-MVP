@@ -39,7 +39,7 @@ Microsoft MVP とは
 * ‪NDA な‪情報が流れる‬ MVP メーリングリストに参加‬
 * 「Microsoft MVP」という official ロゴ(バナー)を自サイトや名刺に使える。個人的にこれめっちゃカッコいいしうらやましい
 * カッコいい MVP トロフィーが届いて、毎年、そのトロフィーに飾るリングが届く
-* クールな <a href="https://www.credly.com/badges/bd4863e6-d58a-4b84-9b28-a9688a5fbd8f/public_url" target="_blank">Credly デジタルバッジ</a> が貰える
+* クールな <a href="https://www.credly.com/badges/533bc829-8b49-4026-8141-07f02dfc0ced/public_url" target="_blank">Credly デジタルバッジ</a> が貰える
 * Microsoft の窓口となる Microsoft 社員「Engagement Leads (ELs) 」から、社員とのネットワーキングの機会の案内、また製品チームをはじめとした米国の Microsoft 本社とのコミュニケーションのサポートが受けられる
 
 ![mvp award kit](https://user-images.githubusercontent.com/4776688/51480416-5e11ae00-1dd4-11e9-94f2-bab941d54526.jpg)
