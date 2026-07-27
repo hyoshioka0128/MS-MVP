@@ -2,7 +2,7 @@
 
 **Microsoft MVP** (Most Valuable Professional) 制度とは、Microsoft 社が、社外の人を「MVP」として表彰する制度です。
 
-「Thank you Award」とも呼ばれ、マイクロソフト製品などに対する深い専門知識を待ち、かつ、それを広く(登壇や記事執筆などで)広めてくれている人たちを表彰する制度です。
+「Thank you Award」とも呼ばれ、マイクロソフト製品などに対する深い専門知識を持ち、かつ、それを広く(登壇や記事執筆などで)広めてくれている人たちを表彰する制度です。
 
 公式サイト： <a href="https://mvp.microsoft.com/ja-jp" target="_blank">mvp.microsoft.com</a>
 
